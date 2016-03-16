@@ -25,11 +25,11 @@ This package contains:
 
 2) example_CLASSIFICATION.m, 	which shows how to use ELM for binary classification;
 
-3) example_REGRESSION.m, 		which shows how to use ELM for regression problems;
+3) example_REGRESSION.m, 	which shows how to use ELM for regression problems;
 
 4) computeAccuracy.m, 		which computes classification accuracy of ELM;
 
-5) computeR2.m, 			which computes the coefficient of determination(R^2);
+5) computeR2.m, 		which computes the coefficient of determination(R^2);
 
 6) README.MD, 			this file;
 
