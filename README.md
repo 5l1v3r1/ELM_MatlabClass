@@ -21,19 +21,19 @@ for which it was initially developed.
 
 This package contains:
 
-ELM_MatlabClass.m, 		which is the class implementing the ELM;
+1) ELM_MatlabClass.m, 		which is the class implementing the ELM;
 
-example_CLASSIFICATION.m, 	which shows how to use ELM for binary classification;
+2) example_CLASSIFICATION.m, 	which shows how to use ELM for binary classification;
 
-example_REGRESSION.m, 		which shows how to use ELM for regression problems;
+3) example_REGRESSION.m, 		which shows how to use ELM for regression problems;
 
-computeAccuracy.m, 		which computes classification accuracy of ELM;
+4) computeAccuracy.m, 		which computes classification accuracy of ELM;
 
-computeR2.m, 			which computes the coefficient of determination(R^2);
+5) computeR2.m, 			which computes the coefficient of determination(R^2);
 
-README.MD, 			this file;
+6) README.MD, 			this file;
 
-license.txt,			the GNU GPL license.
+7) license.txt,			the GNU GPL license.
 
 The UCI datasets breast-cancer-wisconsin.data and data_akbilgic.csv are also 
 included as they are used in the examples for CLASSIFICATION and REGRESSION, 
