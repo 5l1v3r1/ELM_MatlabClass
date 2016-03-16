@@ -12,7 +12,7 @@ as proposed by Huang et al.,
 If you want to use this package please cite 
 
 	Taormina, Riccardo, and Kwok-Wing Chau. 
-	"Data-driven input variable selection for rainfall–runoff modeling using 
+	"Data-driven input variable selection for rainfallâ€“runoff modeling using 
 	binary-coded particle swarm optimization and Extreme Learning Machines." 
 	Journal of Hydrology 529 (2015): 1617-1632.
 
@@ -21,11 +21,11 @@ for which it was initially developed.
 This package contains:
 
 ELM_MatlabClass.m, 			which is the class implementing the ELM;
-example_CLASSIFICATION.m, 	which shows how to use ELM for binary classification;
-example_REGRESSION.m, 		which shows how to use ELM for regression problems;
+example_CLASSIFICATION.m, 		which shows how to use ELM for binary classification;
+example_REGRESSION.m, 			which shows how to use ELM for regression problems;
 computeAccuracy.m,			which computes classification accuracy of ELM;
 computeR2.m,				which computes the coefficient of determination(R^2);
-README.MD,					this file;
+README.MD,				this file;
 license.txt,				GNU GPL license.
 
 The UCI datasets breast-cancer-wisconsin.data and data_akbilgic.csv are also 
