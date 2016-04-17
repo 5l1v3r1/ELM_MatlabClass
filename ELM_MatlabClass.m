@@ -97,7 +97,7 @@ classdef ELM_MatlabClass
                 error('C parameter has to be >= 0');
             end
             % act fun
-            self.actFun  = @(x) (1-2./(exp(2*x)+1);
+            self.actFun  = @(x) (1-2./(exp(2*x)+1));
         elseif nargin == 5
             % C
             if varargin{1} >= 0
